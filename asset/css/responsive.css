@@ -1,0 +1,9 @@
+.tuch-map input {
+    margin-bottom: 10px;
+}
+
+@media screen (max-width: 992px) {
+    .about_section {
+        padding-bottom: 80px;
+    }
+}
